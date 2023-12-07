@@ -1,0 +1,2 @@
+This is the backend to a react application for people. It can take in new people, display current people in the database, and delete a person.
+Here is a link to the frontend "https://github.com/ntowe89/react-frontend"
